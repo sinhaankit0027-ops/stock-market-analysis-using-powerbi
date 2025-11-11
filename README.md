@@ -1,1 +1,1 @@
-# stock-market-analysis-project
+# stock-market-analysis-using-powerbi
